@@ -3,10 +3,10 @@ import Trabaja2 from '../images/trabaja.jpg'
 
 const Trabaja = () => {
   return (
-    <div>
-        <img src={Trabaja2} alt=''/>
+    <div className='container'>
+        <img src={Trabaja2} alt=''className='imagen'/>
     </div>
   )
 }
 
-export default Trabaja
+export default Trabaja;

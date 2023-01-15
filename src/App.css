@@ -1,0 +1,17 @@
+.tamaño-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 7px;
+}
+.padre{
+    display: flex;
+    flex-direction: row;
+}
+.links{
+    margin: 5px;
+}
+.imagen{
+    width: 100%;
+    height: 500px
+    
+}

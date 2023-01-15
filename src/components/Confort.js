@@ -3,8 +3,8 @@ import Confort2 from '../images/confort.jpg'
 
 const Confort = () => {
   return (
-    <div>
-        <img src={Confort2} alt=''/>
+    <div className='container'>
+        <img src={Confort2} alt='' className='imagen'/>
     </div>
   )
 }

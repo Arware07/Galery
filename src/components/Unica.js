@@ -3,10 +3,10 @@ import Unica2 from '../images/unica.jpg'
 
 const Unica = () => {
   return (
-    <div>
-        <img src={Unica2} alt=''/>
+    <div className='container'>
+        <img src={Unica2} alt='' className='imagen'/>
     </div>
   )
 }
 
-export default Unica
+export default Unica;
